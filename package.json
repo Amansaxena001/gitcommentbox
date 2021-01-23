@@ -1,6 +1,6 @@
 {
   "name": "gitcommentbox",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "git Commentbox for react and angular js application ",
   "main": "index.js",
   "keywords": [
