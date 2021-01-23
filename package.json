@@ -1,0 +1,15 @@
+{
+  "name": "gitcommentbox",
+  "version": "1.0.0",
+  "description": "git Commentbox for react and angular js application ",
+  "main": "index.js",
+  "keywords": [
+    "git comment box",
+    "comment box"
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sunny Sharma",
+  "license": "ISC"
+}
