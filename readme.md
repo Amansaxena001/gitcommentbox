@@ -2,13 +2,15 @@
 # How To Install
 
 ```sh
-yarn add is-even-indreklasn
+yarn add gitcommentbox
 ```
+
+Git Comment Box
 
 # How To Use
 
 ```js
-const isEven = require('is-even-indreklasn')
+const isEven = require('gitcommentbox')
 
 isEven(2) // true
 
