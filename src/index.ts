@@ -1,5 +1,5 @@
-const isEven = (number: number) => {
-    return number % 2 === 0
-  }
-  
-export = isEven
+const isEven = (num: number) => {
+  return num % 2 === 0;
+};
+
+export = isEven;
